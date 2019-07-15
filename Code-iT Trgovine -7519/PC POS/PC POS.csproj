@@ -1708,6 +1708,12 @@
     <Compile Include="staracki_dom.Designer.cs">
       <DependentUpon>staracki_dom.cs</DependentUpon>
     </Compile>
+    <Compile Include="syncTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="syncTest.Designer.cs">
+      <DependentUpon>syncTest.cs</DependentUpon>
+    </Compile>
     <Compile Include="synWeb\synKalkulacija1.cs" />
     <Compile Include="synWeb\synMeduSkladiste.cs" />
     <Compile Include="synWeb\synPoslovnice.cs" />
