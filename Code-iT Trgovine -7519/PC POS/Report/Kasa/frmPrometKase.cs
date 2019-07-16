@@ -2,7 +2,7 @@
 using System.Data;
 using System.Drawing;
 using System.Windows.Forms;
-
+//Sync
 namespace PCPOS.Report.Kasa
 {
     public partial class frmPrometKase : Form
