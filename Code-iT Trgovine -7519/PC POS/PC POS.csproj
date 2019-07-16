@@ -1714,6 +1714,12 @@
     <Compile Include="syncTest.Designer.cs">
       <DependentUpon>syncTest.cs</DependentUpon>
     </Compile>
+    <Compile Include="syncTest2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="syncTest2.Designer.cs">
+      <DependentUpon>syncTest2.cs</DependentUpon>
+    </Compile>
     <Compile Include="synWeb\synKalkulacija1.cs" />
     <Compile Include="synWeb\synMeduSkladiste.cs" />
     <Compile Include="synWeb\synPoslovnice.cs" />
@@ -3436,6 +3442,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="syncTest.resx">
       <DependentUpon>syncTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="syncTest2.resx">
+      <DependentUpon>syncTest2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Tecajna_lista.resx">
       <DependentUpon>Tecajna_lista.cs</DependentUpon>
