@@ -3434,6 +3434,9 @@
     <EmbeddedResource Include="staracki_dom.resx">
       <DependentUpon>staracki_dom.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="syncTest.resx">
+      <DependentUpon>syncTest.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Tecajna_lista.resx">
       <DependentUpon>Tecajna_lista.cs</DependentUpon>
     </EmbeddedResource>
